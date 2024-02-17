@@ -1,6 +1,6 @@
 # monogodb valume
-mongo-volume
-mongodb/mongo-volume
+# mongo-volume
+# mongodb/mongo-volume/*
 
 # Logs
 logs
